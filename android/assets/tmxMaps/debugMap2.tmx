@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="20" height="20" tilewidth="16" tileheight="16" nextobjectid="19">
+ <tileset firstgid="1" name="tileSetLand" tilewidth="16" tileheight="16" tilecount="24">
+  <image source="tileSetLand.png" width="48" height="128"/>
+ </tileset>
+ <layer name="texture" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJylk+kOwyAMg2FHd98r6/s/6Yy0SJGXcIgfn3Bp5JbgpBBCMviApbKnn713N3AB14ou+YmOYAXWao2O9jxkncARnMCZ9AZsCzWW36Fwth3YF2p0z8Qvf+8OHuBJWv+TVSNe6edl1b7AG8yk9dlkn+80Glg94dW7k4l63qr1OcVL7kL3vFezH+ejV7Nf60y0zMoS/vMxorMfZ2JEZ7/SnPbqkbxYWvo4khcvOz25aKmxZnN2avXsyh7Pt6dr39b6C2NpF2s=
+  </data>
+ </layer>
+ <objectgroup name="objects">
+  <object id="1" x="0" y="0" width="320" height="16"/>
+  <object id="2" x="0" y="16" width="64" height="16"/>
+  <object id="3" x="0" y="32" width="48" height="16"/>
+  <object id="4" x="0" y="48" width="32" height="48"/>
+  <object id="5" x="0" y="96" width="16" height="224"/>
+  <object id="6" x="16" y="256" width="16" height="64"/>
+  <object id="7" x="32" y="272" width="16" height="48"/>
+  <object id="8" x="48" y="288" width="48" height="32"/>
+  <object id="9" x="96" y="304" width="48" height="16"/>
+  <object id="10" x="176" y="272" width="48" height="48"/>
+  <object id="11" x="224" y="304" width="96" height="16"/>
+  <object id="12" x="256" y="288" width="48" height="16"/>
+  <object id="13" x="224" y="16" width="96" height="32"/>
+  <object id="14" x="96" y="112" width="96" height="16"/>
+  <object id="15" x="192" y="96" width="48" height="32"/>
+  <object id="16" x="240" y="112" width="32" height="32"/>
+  <object id="17" x="272" y="48" width="48" height="144"/>
+ </objectgroup>
+ <objectgroup name="player">
+  <object id="18" x="263.25" y="274.75" width="1.75" height="2"/>
+ </objectgroup>
+</map>

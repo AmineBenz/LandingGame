@@ -1,0 +1,67 @@
+uielements.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+frame
+  rotate: false
+  xy: 1, 106
+  size: 264, 148
+  orig: 264, 148
+  offset: 0, 0
+  index: -1
+laseredframeDown
+  rotate: false
+  xy: 267, 106
+  size: 264, 148
+  orig: 264, 148
+  offset: 0, 0
+  index: -1
+laseredframeUp
+  rotate: false
+  xy: 533, 106
+  size: 264, 148
+  orig: 264, 148
+  offset: 0, 0
+  index: -1
+panel
+  rotate: false
+  xy: 1, 43
+  size: 163, 61
+  orig: 163, 61
+  offset: 0, 0
+  index: -1
+threebuttonspanel
+  rotate: false
+  xy: 799, 193
+  size: 163, 61
+  orig: 163, 61
+  offset: 0, 0
+  index: -1
+topheadpanelDown
+  rotate: false
+  xy: 1, 1
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1
+topheadpanelUp
+  rotate: false
+  xy: 166, 64
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1
+smallbuttonDown
+  rotate: false
+  xy: 799, 163
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+smallbuttonUp
+  rotate: false
+  xy: 964, 226
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

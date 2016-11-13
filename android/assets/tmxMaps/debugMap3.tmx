@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="100" height="40" tilewidth="16" tileheight="16" nextobjectid="42">
+ <tileset firstgid="1" name="tileSetLand" tilewidth="16" tileheight="16" tilecount="72">
+  <image source="tileSetLand.png" width="144" height="128"/>
+ </tileset>
+ <layer name="texture" width="100" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztmkFPwzAMhcu4wW7ADbgBt8GNcUv3/38UrtiTrKlr7cSxPbHDk57UNHZiZf3qtQzDUEgj6dDgLea4dG8xx6Qb0oZ0e/Wh/nDUG+md9JHAR8eP9DgfO9In6SuBj44f6XE+os/p1f/5ctQd6Z60vfpQj9+rB9Ij6enqQz3q8Ux6Ib0a+LFBxUGa/K32ROoR15IVvPa1VpL8IW/G6sFXqEcGXtnN1EOSP1Sz9haBr75Je9LPMee1d0k+/tSjHktjvD2vx9p4vj/aWC212LN6SGog8fw5EM2Opx71WBvP90gbq/V8eDxHM3DkVpEP35dL5925emTgSJ7b2nheD+888XtlxW1z9fDkRUlu/4l35+qRpVcnzSeSd3E+srBpT4969OTdVo8co3nUw2OtPXm31SNuBh6t8Zr8y3CeL7UsWvs+MJcbv44YGXi0xmvyL4Y1qdUS43Jl4NEar8kf9fCMq+Xmc++D0Wyq7SVb8q5lXC03g68y8GhtL1nK66iHZ1wtN18672K9lrxrGVfLzZr1LP0HX4Z19li6JvXnrlvyrqaPK+VX6fw4Hy3ciXVGs69VntjD1jEbNk6apwXvYp3R7Gvd37XgbIyT5onz4dE3jfbSPCUs24t3yyDnRQ+OzNTfjeBdPA89+qbRHjxgwbI9ebeVr1CPaPZd89gbS4buwbtSXvTgyJ4ee2PFspp+rYZ3p7204Mi1eUoCjYJ1SVlWw6/S8cjRgiNL4zxZvMU7QOT3DLweGbjWs2ec8ftdXo8MXOvZM874PQOvRwau9ewZ9/h+d3qmW/BuaZwni7fkXa1Hv8SqHhm41qt328MfWHywb40vDffOeYu5WuYYG+eovW/SLzoIOyM=
+  </data>
+ </layer>
+ <layer name="helipads" width="100" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt2rkNgEAUQ8ENOIPl6r9YLFHERzAjvdwFuDUAAIA6QxrTlOa0pLV00b/1tKU9HelMV+kiAAAAAAAAAAAAAPguf+p38aeGxw0wLQEJ
+  </data>
+ </layer>
+ <objectgroup name="objects">
+  <object id="2" x="0" y="0" width="1600" height="16"/>
+  <object id="3" x="1584" y="16" width="16" height="624"/>
+  <object id="4" x="0" y="624" width="1584" height="16"/>
+  <object id="5" x="0" y="16" width="16" height="608"/>
+  <object id="6" x="304" y="192" width="80" height="64"/>
+  <object id="7" x="16" y="176" width="288" height="32"/>
+  <object id="9" x="304" y="176" width="16" height="16"/>
+  <object id="10" x="320" y="112" width="32" height="80"/>
+  <object id="11" x="64" y="160" width="144" height="16"/>
+  <object id="12" x="352" y="112" width="608" height="32"/>
+  <object id="13" x="896" y="144" width="64" height="16"/>
+  <object id="14" x="912" y="160" width="48" height="16"/>
+  <object id="15" x="928" y="176" width="32" height="352"/>
+  <object id="16" x="416" y="512" width="512" height="16"/>
+  <object id="17" x="752" y="288" width="32" height="112"/>
+  <object id="18" x="1088" y="112" width="48" height="176"/>
+  <object id="19" x="960" y="288" width="496" height="32"/>
+  <object id="20" x="1328" y="144" width="256" height="48"/>
+  <object id="21" x="1536" y="288" width="48" height="32"/>
+  <object id="22" x="1392" y="320" width="32" height="208"/>
+  <object id="23" x="1232" y="320" width="32" height="160"/>
+  <object id="24" x="1088" y="400" width="32" height="224"/>
+  <object id="25" x="256" y="384" width="496" height="16"/>
+  <object id="26" x="256" y="400" width="32" height="112"/>
+  <object id="27" x="256" y="512" width="48" height="112"/>
+  <object id="28" x="16" y="336" width="64" height="16"/>
+ </objectgroup>
+ <objectgroup name="player">
+  <object id="38" x="106.364" y="575.636" width="48" height="32"/>
+ </objectgroup>
+ <objectgroup name="landingpad">
+  <object id="40" x="80" y="128" width="96" height="32"/>
+  <object id="41" x="80" y="592" width="96" height="32"/>
+ </objectgroup>
+</map>

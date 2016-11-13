@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="25" height="25" tilewidth="16" tileheight="16" nextobjectid="23">
+ <tileset firstgid="1" name="tileSetLand" tilewidth="16" tileheight="16" tilecount="150">
+  <image source="tileSetLand.png" width="240" height="160"/>
+ </tileset>
+ <layer name="texture" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJztlNkOgkAMRftruEaecJcncPcJ3P197yQ0KRBCZcCosclJ085yM53OEH2G9Rvc14a/xu9olM07glPNGjamrcW772MJVhU1OqALejVr8N2Z+WMwAVPledZgo9QpO1/ROc7gYqGxBTuwF95woNdrVWRXcAN34Q0P0E5oslajBNta2fwfMzAX88viKhoOCEELBJk4FLlA5B0xHio0PBCDIYgycSxykch7YjxWaAwo35PsXUq/ddM73Ke8zlVoLCjfk+x9Sr910zv8D/A6X6Hx7fYEROxdLQ==
+  </data>
+ </layer>
+ <layer name="textureLand" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJzNlb1PAkEQxacCscevP0BBK1E7GxVNpAH8RAsTLUgoLpHOQkVBoSXBP9i3YRcml7mdvWvgJb/MAy687OzsLdFitA8q4AAcgqMMn4+VjDrzd+A+g39UMp5sXQEFsAqq4BxcBPqOkhHZug42wCa4BjfgNtC/KRmuV9tgB5QyrCO0V1xp1xHaK74fTr+gDwbgB7yCrvAfob3i++H0R9MZNbO5BXYT2FMyXK/4fsRlsiY0n9VL5msU1qtn8CLUJLWYf6CwXrUtZ+z7sa0n4FTwXGadvrMeMX8lZDRAU/Bx+fr1DoaMHvik6RylkdYvSXX9kZnKpM+WJOls+qTNliS3TzmQF3xcvFf8vpCquxMm9vkiWBM8fweYfRyxjDR9duJ3hpPvPZglQ5IvI/L8tmwZvjlKO5NJ8p05c64/aH6uv8C3UIcKI1qc/gFzDUnP
+  </data>
+ </layer>
+ <objectgroup name="landingpad">
+  <object id="3" x="64" y="336" width="80" height="32"/>
+  <object id="4" x="272" y="96" width="80" height="32"/>
+ </objectgroup>
+ <objectgroup name="player">
+  <object id="5" x="80" y="304" width="48" height="32"/>
+ </objectgroup>
+ <objectgroup name="objects">
+  <object id="6" x="16" y="368" width="304" height="16"/>
+  <object id="8" x="16" y="272" width="16" height="96"/>
+  <object id="9" x="32" y="272" width="160" height="16"/>
+  <object id="10" x="176" y="208" width="16" height="64"/>
+  <object id="11" x="80" y="208" width="96" height="16"/>
+  <object id="12" x="80" y="16" width="16" height="192"/>
+  <object id="13" x="96" y="16" width="272" height="16"/>
+  <object id="14" x="352" y="32" width="16" height="96"/>
+  <object id="15" x="256" y="128" width="112" height="16"/>
+  <object id="16" x="224" y="112" width="32" height="48"/>
+  <object id="17" x="192" y="112" width="32" height="32"/>
+  <object id="18" x="352" y="144" width="16" height="48"/>
+  <object id="19" x="368" y="176" width="16" height="112"/>
+  <object id="20" x="304" y="272" width="64" height="16"/>
+  <object id="21" x="352" y="224" width="16" height="16"/>
+  <object id="22" x="304" y="288" width="16" height="80"/>
+ </objectgroup>
+</map>
